@@ -8,7 +8,7 @@ Routes :
   POST /simulate    → simulation déterministe  → JSON
   POST /montecarlo  → simulation Monte Carlo   → JSON
 
-Auteurs : [Vos noms]
+Auteurs : Rivière Clément, Poezevara Clarisse, Simona Agathe
 Cours   : Python — Projet final, Dauphine
 """
 
