@@ -9,7 +9,7 @@ Contient :
   - simulate_savings  : fonction de simulation déterministe
   - monte_carlo       : fonction de simulation stochastique
 
-Auteurs : [Vos noms]
+Auteurs : Rivière Clément, Poezevara Clarisse, Simona Agathe
 Cours   : Python — Projet final, Dauphine
 """
 
